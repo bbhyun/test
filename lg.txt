@@ -9,4 +9,4 @@ hhh
 uuu
 git is a distributed version control syste
 heheh
-creating a new branch is quick.
+creating a new branch is quick & simple.
